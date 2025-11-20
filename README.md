@@ -73,4 +73,4 @@ Görsel İletişim Tasarımı - *Devam ediyor*
 ---
 
 ### ✨ Bugün çalışmaya, yarın üretmeye devam ediyorum.  
-Teşekkür ederim!  <img width="1356" height="771" alt="image" src="https://github.com/user-attachments/assets/40e1cd59-08af-4eba-aaf0-55e114f8a835" />
+Teşekkür ederim! 
